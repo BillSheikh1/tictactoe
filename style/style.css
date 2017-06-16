@@ -1,0 +1,32 @@
+table {
+	border: 1px solid black;
+	width: 600px;
+	height: 600px;
+}
+
+
+th {
+
+	border: 1px solid black;
+	width: 450px;
+	height: 150px;
+	text-align: center;
+	font-size: 24px;
+}
+
+tr, td {
+	border: 1px solid black;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	font-size: 50px;
+}
+
+p {
+	margin: auto;
+}
+
+#info {
+	border: 1px solid black;
+	text-align: center;
+}
